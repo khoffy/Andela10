@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+
+    <string name="andela_office">andela office</string>
+
+    <string name="about_btn">ABOUT ALC</string>
+    <string name="my_profile_btn">MY PROFILE</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="img_description">ALC Office picture</string>
+    <string name="my_profile_appbar_label">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile_name">Koffi Adolf Hermann TIPOH</string>
+    <string name="track_text">Track:  Android</string>
+    <string name="country_name">Country:  Togo</string>
+    <string name="email">Email:  adolf_hermann86@yahoo.fr</string>
+    <string name="phone_number">Phone Number: +22890937061</string>
+    <string name="slack_username">Slack Username:  @khoffy</string>
+</resources>
